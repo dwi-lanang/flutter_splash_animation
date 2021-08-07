@@ -1,5 +1,7 @@
 # flutter_splash_animation
 
+https://user-images.githubusercontent.com/80384451/128596283-7b12cfd0-30b4-4ef2-8b04-5e5eb5584ea4.mov
+
 A new Flutter project.
 
 ## Getting Started
